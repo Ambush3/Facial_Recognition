@@ -11,3 +11,4 @@ In finding_face_landmarks.py --
 In projecting_faces.py --
    Letting the computer figure out what measurements to collect itself.
    
+You'll want to use "shape_predictor_68_face_landmarks.dat"
